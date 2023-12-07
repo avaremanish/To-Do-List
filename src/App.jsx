@@ -1,5 +1,6 @@
 import './App.css'
 import { TodoWrapper } from './components/TodoWrapper'
+
 function App() {
 
 
@@ -7,7 +8,7 @@ function App() {
     <>
      
      <div>
-      <TodoWrapper/>
+     <TodoWrapper/>
      </div>
      
     </>
